@@ -24,5 +24,7 @@ public class Test1 {
 		System.out.println("你的年龄是:"+age);
 		System.out.println("你的体重是:"+weight);
 		System.out.println(weight==2.1);
+		
+		
 	}
 }
