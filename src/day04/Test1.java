@@ -15,7 +15,7 @@ public class Test1 {
 		System.out.println("请输入体重:");
 		//提示用户输入名字:字符串类型
 		
-		//获取能够在控制台输入的权限
+		//获取能够在控制台输入的权
 		String str2 = new Scanner(System.in).next();
 		int age = new Scanner(System.in).nextInt();
 		float weight = new Scanner(System.in).nextFloat();
